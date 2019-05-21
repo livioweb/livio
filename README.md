@@ -5,3 +5,4 @@
 
 <p> Liberdade </p>
 <p>Fraternidade</p>
+<p>Igualdade</p>
